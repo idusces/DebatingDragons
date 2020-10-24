@@ -9,6 +9,7 @@ Wish List for future iterations of the Debating Dragons server.
     </ol>
   <h2>Major<h2>
     <ol>
+      <li>Way to select a token from a stack/single square</li>
     <li>Ability to toggle light sources on characters</li>
     <li>A better representation for 'dim' vision that isn't difficult for players to see the board with</li>
     <li>Generic list of light sources (torch, candle, light, etc.) that can be toggled and dropped</li>
@@ -19,6 +20,8 @@ Wish List for future iterations of the Debating Dragons server.
     </ol>
   <h2>Minor<h2>    
     <ol>
+      <li>Darkvision filter - player only sees in grayscale for darkvision sight</li>
+      <li>Dead tokens are always at the bottom of the stack.</li
       <li>A proper macro for Green Flame Blade</li>
       <li>Animated tokens ("Motion images?")</li>
       </ol>
