@@ -6,6 +6,7 @@ Wish List for future iterations of the Debating Dragons server.
   <li>Bring the DNDBeyond character management experience to within Foundry</li>
   <li>Ability to toggle light sources on characters</li>
   <li>Better organized File system for server (tokens/battlemaps/etc.)
+  <li>More comprehensive time tracking system (Shows vague time to Players without a Survival Check/Shortcuts for common time intervals/'event' system for Spell Effects and other ability/item durations/reminders)</li>
     </ol>
   <h2>Major<h2>
     <ol>
