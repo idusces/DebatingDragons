@@ -1,8 +1,8 @@
 # DebatingDragons
 
 Wish List for future iterations of the Debating Dragons server.
-<ol>
   <h2>Priority<h2>
+  <ol>
   <li>Bring the DNDBeyond character management experience to within Foundry</li>
   <li>Ability to toggle light sources on characters</li>
   <li>Better organized File system for server (tokens/battlemaps/etc.)
