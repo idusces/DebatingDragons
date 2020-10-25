@@ -24,4 +24,5 @@ Wish List for future iterations of the Debating Dragons server.
       <li>Dead tokens are always at the bottom of the stack.</li
       <li>A proper macro for Green Flame Blade</li>
       <li>Animated tokens ("Motion images?")</li>
+      <li>Slope vision/One way walls for vision</li>
       </ol>
